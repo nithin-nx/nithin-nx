@@ -28,8 +28,8 @@
 ## <img src="animated/light_5.gif" height="30px" /> My Stats <img src="animated/loading.gif" height="20px" />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nithin-nx&show_icons=true&title_color=ff1a75&text_color=ffffff&icon_color=00d4ff&bg_color=18181b&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithin-nx&layout=compact&title_color=ff1a75&text_color=ffffff&icon_color=00d4ff&bg_color=18181b&hide_border=true&langs_count=5" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nithin-nx&show_icons=true&title_color=ff1a75&text_color=ffffff&icon_color=00d4ff&bg_color=18181b&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nithin-nx&layout=compact&title_color=ff1a75&text_color=ffffff&icon_color=00d4ff&bg_color=18181b&hide_border=true&langs_count=5" alt="Top Languages" height="150" />
 </div>
 
 # 🛠️ Tech Stack Skills
@@ -144,7 +144,7 @@
 
 ## 🔗 Links <img src="svgs/logo-javascript.svg" style="height: 45px;" /> <img src="svgs/logo-nodejs.svg" style="height: 45px;" /> <img src="svgs/logo-typescript.svg" style="height: 45px;" /> <img src="images/go.png" style="height: 45px;" /> <img src="images/react.png" style="height: 45px;" />
 
-[![Resume](https://img.shields.io/badge/Resume-%239146FF.svg?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1oT14OeZJZU6a/view?usp=sharing) [![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:abdulvahabaa916@gmail.com) [![Portfolio](https://img.shields.io/badge/-Portfolio-FE7A16?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://linktr.ee/abdu) [![Whatsapp](https://img.shields.io/badge/-WhatsApp-green?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/+9747733770) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulvahabaa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/abub) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/abub)
+[![Resume](https://img.shields.io/badge/Resume-%239146FF.svg?logo=read-the-docs&logoColor=white)](https://nithin-nx.github.io/portfolio/assets/resume/Nithin_N_Resume.pdf) [![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?logo=Gmail&logoColor=white)](mailto:www.nithinnibin@gmail.com) [![Portfolio](https://img.shields.io/badge/-Portfolio-FE7A16?logo=Google-chrome&logoColor=white)](https://nithin-nx.github.io/portfolio/) [![Whatsapp](https://img.shields.io/badge/-WhatsApp-green?logo=WhatsApp&logoColor=white)](https://wa.me/+919778043895) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithin-n-145527299/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nithin_nicolaz/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]()
 
 
 ---
