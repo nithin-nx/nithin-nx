@@ -2,9 +2,9 @@
 
 <div align="center">
 
-[![Followers](https://img.shields.io/github/followers/nithin-nx?label=FOLLOWERS&style=for-the-badge&color=red&labelColor=black)](https://github.com/nithin-nx?tab=followers)
-[![Stars](https://img.shields.io/github/stars/nithin-nx?label=STARS&style=for-the-badge&color=red&labelColor=black)](https://github.com/nithin-nx?tab=repositories)
-[![Views](https://komarev.com/ghpvc/?username=nithin-nx&label=PROFILE%20VIEWS&style=for-the-badge)](https://github.com/nithin-nx)
+[![Followers](https://img.shields.io/github/followers/nithin-nx?style=for-the-badge&color=red&labelColor=black)](https://github.com/nithin-nx?tab=followers)
+[![Repo Stars](https://img.shields.io/github/stars/nithin-nx/portfolio?style=for-the-badge&color=red&labelColor=black)](https://github.com/nithin-nx/portfolio)
+[![Profile Views](https://komarev.com/ghpvc/?username=nithin-nx&style=for-the-badge&color=000000&labelColor=555555)](https://github.com/nithin-nx)
 
 
 
