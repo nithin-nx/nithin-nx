@@ -1,5 +1,16 @@
 <img src="images/github-banner.png" >
 
+<div align="center">
+
+[![Followers](https://img.shields.io/github/followers/abdulvahabaa?label=FOLLOWERS&style=for-the-badge&color=red&labelColor=black)](https://github.com/abdulvahabaa?tab=followers)
+[![Stars](https://img.shields.io/github/stars/abdulvahabaa?label=STARS&style=for-the-badge&color=red&labelColor=black)](https://github.com/abdulvahabaa?tab=repositories)
+[![Views](https://komarev.com/ghpvc/?username=abdulvahabaa&label=PROFILE%20VIEWS&style=for-the-badge&color=000000&labelColor=555555)](https://github.com/abdulvahabaa)
+[![WakaTime](https://img.shields.io/badge/WAKATIME-1,153%20HRS%2012%20MINS-black?style=for-the-badge&logo=wakatime&labelColor=555555)](https://wakatime.com/@abdulvahabaa)
+
+**[GYLANSALIH.COM](https://gylansalih.com)**
+
+</div>
+
 # <img src="animated/hands.gif" height="40" /> **_Hey, I'm Abdul Vahab A A_** <img src="animated/javascript.gif" height="40" /> <img src="animated/node.gif" height="40" /> <img src="svgs/logo-typescript.svg" height="40" /> <img src="animated/go.gif" height="40" /> <img src="images/react.png" style="height: 40px;" />
 
 ## 🔗 Links
@@ -141,14 +152,14 @@
 
 ---
 
-## 📺 Favorite Tech Videos
+## ▼ 🐱 My Favorite YouTube Videos
 
 <div align="center">
 
 | | | |
 | :---: | :---: | :---: |
-| [![Node.js in 100 Seconds](https://img.youtube.com/vi/yCgceHT_oBw/0.jpg)](https://www.youtube.com/watch?v=yCgceHT_oBw) <br> **Node.js in 100s** | [![Go in 100 Seconds](https://img.youtube.com/vi/446E-r0rXHI/0.jpg)](https://www.youtube.com/watch?v=446E-r0rXHI) <br> **Go in 100s** | [![Backend Engineering Fundamentals](https://img.youtube.com/vi/b3G_U1G75tU/0.jpg)](https://www.youtube.com/watch?v=b3G_U1G75tU) <br> **Backend Architect** |
-| [![Linux for Hackers](https://img.youtube.com/vi/VbP8yoB6_9A/0.jpg)](https://www.youtube.com/watch?v=VbP8yoB6_9A) <br> **Linux for Hackers** | [![Ethical Hacking Course](https://img.youtube.com/vi/3Kq1MIfTWCE/0.jpg)](https://www.youtube.com/watch?v=3Kq1MIfTWCE) <br> **Ethical Hacking** | [![Developer Productivity](https://img.youtube.com/vi/Lp_666eAn6U/0.jpg)](https://www.youtube.com/watch?v=Lp_666eAn6U) <br> **Dev Productivity** |
+| [![3D Rotation Effect](https://img.youtube.com/vi/Xh-wIMqohD0/0.jpg)](https://www.youtube.com/watch?v=Xh-wIMqohD0) <br> **3D Rotation Effect** <br> 351K views • 4 years ago | [![Coding Pacman](https://img.youtube.com/vi/56X63m9_SNo/0.jpg)](https://www.youtube.com/watch?v=56X63m9_SNo) <br> **Coding Pacman** <br> 3.8M views • 4 years ago | [![Develop 3D Animated Websites](https://img.youtube.com/vi/0wQfE4dbVQc/0.jpg)](https://www.youtube.com/watch?v=0wQfE4dbVQc) <br> **Develop 3D Animated Websites** <br> 1.3M views • 4 years ago |
+| [![Crazy 3D Image Slider](https://img.youtube.com/vi/Yn-F4z88k0s/0.jpg)](https://www.youtube.com/watch?v=Yn-F4z88k0s) <br> **Crazy 3D Image Slider** <br> 1.2M views • 4 years ago | [![CodeGrid best Tutorials](https://img.youtube.com/vi/0P7Y290mP-c/0.jpg)](https://www.youtube.com/watch?v=0P7Y290mP-c) <br> **CodeGrid best Tutorials** <br> 40K views • 4 years ago | [![Awwwards Winning Website](https://img.youtube.com/vi/zQy1FfA3M2U/0.jpg)](https://www.youtube.com/watch?v=zQy1FfA3M2U) <br> **Awwwards Winning Website** <br> 2.5M views |
 
 </div>
 
