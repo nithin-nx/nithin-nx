@@ -1,4 +1,4 @@
-<img src="images/github-banner.jpg" >
+<img src="images/github-banner.png" >
 
 # <img src="animated/hands.gif" height="40" /> **_Hey, I'm Abdul Vahab A A_** <img src="animated/javascript.gif" height="40" /> <img src="animated/node.gif" height="40" /> <img src="svgs/logo-typescript.svg" height="40" /> <img src="animated/go.gif" height="40" /> <img src="images/react.png" style="height: 40px;" />
 
