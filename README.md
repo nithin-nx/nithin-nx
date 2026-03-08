@@ -158,11 +158,11 @@
 
 | | | |
 | :---: | :---: | :---: |
-| [![3D Rotation Effect](https://img.youtube.com/vi/Xh-wIMqohD0/0.jpg)](https://www.youtube.com/watch?v=Xh-wIMqohD0) <br> **3D Rotation Effect** <br> 351K views • 4 years ago | [![Coding Pacman](https://img.youtube.com/vi/56X63m9_SNo/0.jpg)](https://www.youtube.com/watch?v=56X63m9_SNo) <br> **Coding Pacman** <br> 3.8M views • 4 years ago | [![Develop 3D Animated Websites](https://img.youtube.com/vi/0wQfE4dbVQc/0.jpg)](https://www.youtube.com/watch?v=0wQfE4dbVQc) <br> **Develop 3D Animated Websites** <br> 1.3M views • 4 years ago |
-| [![Crazy 3D Image Slider](https://img.youtube.com/vi/Yn-F4z88k0s/0.jpg)](https://www.youtube.com/watch?v=Yn-F4z88k0s) <br> **Crazy 3D Image Slider** <br> 1.2M views • 4 years ago | [![CodeGrid best Tutorials](https://img.youtube.com/vi/0P7Y290mP-c/0.jpg)](https://www.youtube.com/watch?v=0P7Y290mP-c) <br> **CodeGrid best Tutorials** <br> 40K views • 4 years ago | [![Awwwards Winning Website](https://img.youtube.com/vi/zQy1FfA3M2U/0.jpg)](https://www.youtube.com/watch?v=zQy1FfA3M2U) <br> **Awwwards Winning Website** <br> 2.5M views |
+| [![Day 1: What is AI?](https://img.youtube.com/vi/DI2gyY8WxSg/maxresdefault.jpg)](https://youtu.be/DI2gyY8WxSg) <br> **Day 1: What is AI?** <br> 347K views • 10:59 duration | [![AI Superintelligence](https://img.youtube.com/vi/oX7OduG1YmI/maxresdefault.jpg)](https://youtu.be/oX7OduG1YmI) <br> **AI Superintelligence** <br> 66K views • 12:31 duration | [![Python Course](https://img.youtube.com/vi/x0tgdtpjnpc/maxresdefault.jpg)](https://youtu.be/x0tgdtpjnpc) <br> **Python Course** <br> 6 Hours Complete |
+| [![Python Full Course](https://img.youtube.com/vi/shgX1xPLpio/maxresdefault.jpg)](https://youtu.be/shgX1xPLpio) <br> **Python Full Course** <br> 4 years ago • Beginners | [![Python for Beginners](https://img.youtube.com/vi/fZmQ_aPXJAM/maxresdefault.jpg)](https://youtu.be/fZmQ_aPXJAM) <br> **Python Beginner** <br> 4 years ago • 1 Hour | [![Learn Python!](https://img.youtube.com/vi/UrsmFxEIp5k/maxresdefault.jpg)](https://youtu.be/UrsmFxEIp5k) <br> **Learn Python!** <br> 1 hour • Bro Code |
 
 </div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=abdulvahabaa&icon=5&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=nithin-nx&icon=5&color=0)](https://visitcount.itsvg.in)
