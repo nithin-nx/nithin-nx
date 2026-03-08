@@ -27,13 +27,10 @@
 
 ## <img src="animated/light_5.gif" height="30px" /> My Stats <img src="animated/loading.gif" height="20px" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nithin-nx&show_icons=true&theme=radical)
-![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=nithin-nx&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nithin-nx&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nithin-nx&layout=compact&theme=blue-green)
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=abdulvahabaa&theme=discord)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nithin-nx&show_icons=true&title_color=ff1a75&text_color=ffffff&icon_color=00d4ff&bg_color=18181b&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithin-nx&layout=compact&title_color=ff1a75&text_color=ffffff&icon_color=00d4ff&bg_color=18181b&hide_border=true&langs_count=5" alt="Top Languages" height="150" />
+</div>
 
 # 🛠️ Tech Stack Skills
 
