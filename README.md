@@ -2,15 +2,9 @@
 
 <div align="center">
 
-<p align="center">
-
-<img src="https://img.shields.io/github/followers/nithin-nx?style=for-the-badge&color=red&labelColor=black"/>
-
-<img src="https://komarev.com/ghpvc/?username=nithin-nx&style=for-the-badge&color=blue&labelColor=black"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=nithin-nx&show_icons=true&theme=dark"/>
-
-</p>
+[![Followers](https://img.shields.io/github/followers/nithin-nx?label=FOLLOWERS&style=for-the-badge&color=red&labelColor=black&cacheSeconds=0&v=2)](https://github.com/nithin-nx?tab=followers)
+[![Stars](https://img.shields.io/github/stars/nithin-nx?label=STARS&style=for-the-badge&color=red&labelColor=black&cacheSeconds=0&v=2)](https://github.com/nithin-nx?tab=repositories)
+[![Views](https://komarev.com/ghpvc/?username=nithin-nx&label=PROFILE%20VIEWS&style=for-the-badge&color=000000&labelColor=555555)](https://github.com/nithin-nx)
 
 
 
