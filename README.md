@@ -2,8 +2,8 @@
 
 <div align="center">
 
-[![Followers](https://img.shields.io/github/followers/nithin-nx?label=FOLLOWERS&style=for-the-badge&color=red&labelColor=black&cacheSeconds=0)](https://github.com/nithin-nx?tab=followers)
-[![Stars](https://img.shields.io/github/stars/nithin-nx?label=STARS&style=for-the-badge&color=red&labelColor=black&cacheSeconds=0)](https://github.com/nithin-nx?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/nithin-nx?label=FOLLOWERS&style=for-the-badge&color=red&labelColor=black&cacheSeconds=0&v=1)](https://github.com/nithin-nx?tab=followers)
+[![Stars](https://img.shields.io/github/stars/nithin-nx?label=STARS&style=for-the-badge&color=red&labelColor=black&cacheSeconds=0&v=1)](https://github.com/nithin-nx?tab=repositories)
 [![Views](https://komarev.com/ghpvc/?username=nithin-nx&label=PROFILE%20VIEWS&style=for-the-badge&color=000000&labelColor=555555)](https://github.com/nithin-nx)
 [![WakaTime](https://img.shields.io/badge/WAKATIME-1,153%20HRS%2012%20MINS-black?style=for-the-badge&logo=wakatime&labelColor=555555)](https://wakatime.com/@nithin-nx)
 
