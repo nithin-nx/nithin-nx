@@ -1,4 +1,4 @@
-<img src="images/Github banner no pic.jpg" >
+<img src="images/github-banner.jpg" >
 
 # <img src="animated/hands.gif" height="40" /> **_Hey, I'm Abdul Vahab A A_** <img src="animated/javascript.gif" height="40" /> <img src="animated/node.gif" height="40" /> <img src="svgs/logo-typescript.svg" height="40" /> <img src="animated/go.gif" height="40" /> <img src="images/react.png" style="height: 40px;" />
 
@@ -137,6 +137,20 @@
 ## 🔗 Links <img src="svgs/logo-javascript.svg" style="height: 45px;" /> <img src="svgs/logo-nodejs.svg" style="height: 45px;" /> <img src="svgs/logo-typescript.svg" style="height: 45px;" /> <img src="images/go.png" style="height: 45px;" /> <img src="images/react.png" style="height: 45px;" />
 
 [![Resume](https://img.shields.io/badge/Resume-%239146FF.svg?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1oT14OeZJZU6a/view?usp=sharing) [![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:abdulvahabaa916@gmail.com) [![Portfolio](https://img.shields.io/badge/-Portfolio-FE7A16?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://linktr.ee/abdu) [![Whatsapp](https://img.shields.io/badge/-WhatsApp-green?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/+9747733770) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulvahabaa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/abub) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/abub)
+
+
+---
+
+## 📺 Favorite Tech Videos
+
+<div align="center">
+
+| | | |
+| :---: | :---: | :---: |
+| [![Node.js in 100 Seconds](https://img.youtube.com/vi/yCgceHT_oBw/0.jpg)](https://www.youtube.com/watch?v=yCgceHT_oBw) <br> **Node.js in 100s** | [![Go in 100 Seconds](https://img.youtube.com/vi/446E-r0rXHI/0.jpg)](https://www.youtube.com/watch?v=446E-r0rXHI) <br> **Go in 100s** | [![Backend Engineering Fundamentals](https://img.youtube.com/vi/b3G_U1G75tU/0.jpg)](https://www.youtube.com/watch?v=b3G_U1G75tU) <br> **Backend Architect** |
+| [![Linux for Hackers](https://img.youtube.com/vi/VbP8yoB6_9A/0.jpg)](https://www.youtube.com/watch?v=VbP8yoB6_9A) <br> **Linux for Hackers** | [![Ethical Hacking Course](https://img.youtube.com/vi/3Kq1MIfTWCE/0.jpg)](https://www.youtube.com/watch?v=3Kq1MIfTWCE) <br> **Ethical Hacking** | [![Developer Productivity](https://img.youtube.com/vi/Lp_666eAn6U/0.jpg)](https://www.youtube.com/watch?v=Lp_666eAn6U) <br> **Dev Productivity** |
+
+</div>
 
 ---
 
