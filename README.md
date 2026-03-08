@@ -2,36 +2,36 @@
 
 <div align="center">
 
-[![Followers](https://img.shields.io/github/followers/abdulvahabaa?label=FOLLOWERS&style=for-the-badge&color=red&labelColor=black)](https://github.com/abdulvahabaa?tab=followers)
-[![Stars](https://img.shields.io/github/stars/abdulvahabaa?label=STARS&style=for-the-badge&color=red&labelColor=black)](https://github.com/abdulvahabaa?tab=repositories)
-[![Views](https://komarev.com/ghpvc/?username=abdulvahabaa&label=PROFILE%20VIEWS&style=for-the-badge&color=000000&labelColor=555555)](https://github.com/abdulvahabaa)
-[![WakaTime](https://img.shields.io/badge/WAKATIME-1,153%20HRS%2012%20MINS-black?style=for-the-badge&logo=wakatime&labelColor=555555)](https://wakatime.com/@abdulvahabaa)
+[![Followers](https://img.shields.io/github/followers/nithin-nx?label=FOLLOWERS&style=for-the-badge&color=red&labelColor=black)](https://github.com/nithin-nx?tab=followers)
+[![Stars](https://img.shields.io/github/stars/nithin-nx?label=STARS&style=for-the-badge&color=red&labelColor=black)](https://github.com/nithin-nx?tab=repositories)
+[![Views](https://komarev.com/ghpvc/?username=nithin-nx&label=PROFILE%20VIEWS&style=for-the-badge&color=000000&labelColor=555555)](https://github.com/nithin-nx)
+[![WakaTime](https://img.shields.io/badge/WAKATIME-1,153%20HRS%2012%20MINS-black?style=for-the-badge&logo=wakatime&labelColor=555555)](https://wakatime.com/@nithin-nx)
 
-**[GYLANSALIH.COM](https://gylansalih.com)**
+
 
 </div>
 
-# <img src="animated/hands.gif" height="40" /> **_Hey, I'm Abdul Vahab A A_** <img src="animated/javascript.gif" height="40" /> <img src="animated/node.gif" height="40" /> <img src="svgs/logo-typescript.svg" height="40" /> <img src="animated/go.gif" height="40" /> <img src="images/react.png" style="height: 40px;" />
+# <img src="animated/hands.gif" height="40" /> **_Hey, I'm Nithin N_** <img src="animated/javascript.gif" height="40" /> <img src="animated/node.gif" height="40" /> <img src="svgs/logo-typescript.svg" height="40" /> <img src="animated/go.gif" height="40" /> <img src="images/react.png" style="height: 40px;" />
 
 ## 🔗 Links
 
-[![Resume](https://img.shields.io/badge/Resume-%239146FF.svg?logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1rQ1TG_9zv9Ij7PuopyuBUm4D/view?usp=sharing) [![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?logo=Gmail&logoColor=white)](mailto:abdulvahabaa916@gmail.com) [![Portfolio](https://img.shields.io/badge/-Portfolio-FE7A16?logo=Google-chrome&logoColor=white)](https://linktr.ee/abdulvaha) [![Whatsapp](https://img.shields.io/badge/-WhatsApp-green?logo=WhatsApp&logoColor=white)](https://wa.me/+9747733770) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulvahabaa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/abub) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abub)
+[![Resume](https://img.shields.io/badge/Resume-%239146FF.svg?logo=read-the-docs&logoColor=white)](https://nithin-nx.github.io/portfolio/assets/resume/Nithin_N_Resume.pdf) [![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?logo=Gmail&logoColor=white)](mailto:www.nithinnibin@gmail.com) [![Portfolio](https://img.shields.io/badge/-Portfolio-FE7A16?logo=Google-chrome&logoColor=white)](https://nithin-nx.github.io/portfolio/) [![Whatsapp](https://img.shields.io/badge/-WhatsApp-green?logo=WhatsApp&logoColor=white)](https://wa.me/+919778043895) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithin-n-145527299/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nithin_nicolaz/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]()
 
 ## 🚀 About Me <img src="animated/rabbit.gif" height="30" />
 
-#### Junior software engineer Node.js & GoLang, Full Stack Developer, and Certified Ethical Hacker.
+#### Junior software engineer Node.js , Full Stack Developer, and Unity Game Developer.
 
-<img src="animated/light_1.gif" height="20px" /> I'm a skilled Full Stack Developer with over two years of experience in Node.js and GoLang, specializing in backend development and security. As a Certified Ethical Hacker and former Junior Software Engineer at EstroTech Robotics, I have a proven track record in optimizing backend infrastructures, managing serverless architectures on AWS, and leading cross-functional teams to deliver secure, high-quality applications.
+<img src="animated/light_1.gif" height="20px" /> I'm a skilled Full Stack Developer with over two years of experience in Node.js and React, specializing in backend development and security. B.Tech Computer Science student | Hands-on learner Working with automation & messaging bots (JavaScript, Python) Currently building full-stack, unity games and mobile apps
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## <img src="animated/light_5.gif" height="30px" /> My Stats <img src="animated/loading.gif" height="20px" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulvahabaa&show_icons=true&theme=radical)
-![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=abdulvahabaa&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nithin-nx&show_icons=true&theme=radical)
+![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=nithin-nx&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abdulvahabaa&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulvahabaa&layout=compact&theme=blue-green)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nithin-nx&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nithin-nx&layout=compact&theme=blue-green)
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=abdulvahabaa&theme=discord)
 
